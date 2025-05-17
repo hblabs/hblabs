@@ -54,7 +54,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 💸 **Malipo Cash** | Mobile app for payments, deposits, withdrawals, NFC. | Flutter, Laravel |
-| 🚗 **Mopila Connecte** | Connects drivers & vehicle owners via OTP. | Flutter, Laravel |
+| 🚗 **Mopila Connect** | Connects drivers & vehicle owners. | Flutter, Laravel |
 | 🎓 **Msomi System** | School management platform. | Flutter, Laravel |
 | 🎉 **Nzuri Events** | Event planning & ticketing app. | Flutter, Firebase |
 | 🛒 **POS App** | Mobile point-of-sale system. | Flutter, Laravel |
