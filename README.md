@@ -85,9 +85,4 @@
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(replace with yours)*
-- 🎥 [TikTok](https://www.tiktok.com/@chill.dev)
-
----
-
 > 🧠 *"Code for impact. Build for Africa. Share to grow."* — Chill Dev
