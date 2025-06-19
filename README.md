@@ -17,7 +17,7 @@
 
 - 👨‍💼 Currently **Chief Technology Officer (CTO)** at [Kivusoft Technologies](https://www.kivusoft.net)
 - 🔭 Actively building **Malipo Cash** – an offline-first mobile payment app
-- 🚗 Also working on **Mopila Connecte** – connecting drivers and vehicle owners via OTP
+- 🚗 Also working on **Mopila Connect** – connecting drivers and vehicle owners 
 - 👨‍🎓 Computer Science student at the **University of the People**
 
 ---
